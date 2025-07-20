@@ -27,13 +27,17 @@ A modern, feature-rich Flutter e-commerce application showcasing product browsin
 
 ## 📱 Screenshots
 
-| Home Screen                             | Product Details                             | Shopping Cart                           | Filter Options |
-|-----------------------------------------|---------------------------------------------|-----------------------------------------|----------------|
-| ![Home](Screenshot_20250720_135720.png) | ![Details](Screenshot_20250720_135807.png)  | [](Screenshot_20250720_135826.png) [](Screenshot_20250720_135838.png) | ![Cart](Screenshot_20250720_135854.png) ![Filter](Screenshot_20250720_135854.png) |
 
-| Search Feature                   | Categories                           | Loading States | Error Handling |
-|----------------------------------|--------------------------------------|----------------|----------------|
-| ![LogIn](Screenshot_20250720_135904.png) | ![Register](Screenshot_20250720_135912.png) | ![Loading](Screenshot_20250720_143356.png) | ![Error](Screenshot_20250720_143442.png) |
+| **Home Screen**                         | **Product Details**                         | **Shopping Cart**                                                                 |
+|----------------------------------------|---------------------------------------------|-----------------------------------------------------------------------------------|
+| ![Home](Screenshot_20250720_135720.png) | ![Details](Screenshot_20250720_135807.png)<br>![Cart 1](Screenshot_20250720_135826.png)<br>![Cart 2](Screenshot_20250720_135838.png)  | ![Filter](Screenshot_20250720_135854.png)  |
+
+---
+
+
+| **LogIn Screen**                         | **Register Screen**                          | **Loading States**                         | **Error Handling**                        |
+|-------------------------------------------|------------------------------------------|--------------------------------------------|-------------------------------------------|
+| ![Search](Screenshot_20250720_135904.png)  | ![Categories](Screenshot_20250720_135912.png) | ![Loading](Screenshot_20250720_143356.png) | ![Error](Screenshot_20250720_143442.png)  |
 
 ## 🏛️ Architecture
 
