@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "506716032293",
+    "project_id": "wasil-tech-task-5e36d",
+    "storage_bucket": "wasil-tech-task-5e36d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506716032293:android:fd872dd52cd8b657fedecc",
+        "android_client_info": {
+          "package_name": "com.example.product_list_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEG6hiIgY8bq8K5-f2ZvfkH12d3teF19s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506716032293:android:91341cf98c8642a2fedecc",
+        "android_client_info": {
+          "package_name": "com.example.wasil_tech_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEG6hiIgY8bq8K5-f2ZvfkH12d3teF19s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
